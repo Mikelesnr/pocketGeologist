@@ -19,9 +19,9 @@
             Rocks
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-            <li><a class="dropdown-item" href="rocks.php#igneous">Igneous</a></li>
-            <li><a class="dropdown-item" href="rocks.php#sedimentary">Sedimentary</a></li>
-            <li><a class="dropdown-item" href="rocks.php#metamorphic">Metamorphic</a></li>
+            <li><a class="dropdown-item" href="igneous.php">Igneous</a></li>
+            <li><a class="dropdown-item" href="sedimentary.php">Sedimentary</a></li>
+            <li><a class="dropdown-item" href="metamorphic.php">Metamorphic</a></li>
           </ul>
         </li>
         <li class="nav-item">

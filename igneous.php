@@ -17,22 +17,14 @@
         <?php
           include('header.php');
         ?>
-        <h3>Rocks.</h3>
+        <h3>Igneous.</h3>
     </header>
     <section>
         <h3>Igneous</h3>
         <p></p>
     </section>
-    <section>
-        <h3>Sedimentary</h3>
-        <p></p>
-    </section>
-    <section>
-        <h3>Metamorphic</h3>
-        <p></p>
-    </section>
 
-    <footer class="footer">
+        <footer class="footer">
         <?php
       include('footer.php');
     ?>

@@ -6,16 +6,18 @@
     ?>
   </head>
     <body>
-      <nav class="navbar navbar-expand-lg navbar-light bg-light" style="z-index: 2;">
+      <nav class="navbar navbar-expand-lg navbar-light" style="z-index: 2;">
         <?php
           include('mainNav.php');
         ?>
       </nav>
-      <header class="header">
+      <header class="header"">
+      <div class="container-fluid text-center ">
         <?php
           include('header.php');
         ?>
         <h3>Welcome to my site.</h3>
+    </div>
       </header>
 
       
@@ -139,17 +141,16 @@
   </div>
 
   <div class="constainer" id="search">
-      <h2 id='mainH2'>Mineral Search</h2>
-      <div class="operations__tab-conatiner">
-        <button class="btn operations__tab operations tab--2" data-bs-target="#carousel" data-bs-slide="prev" style="width: 150px;">Previous</button>
-        <button class="btn operations__tab operations tab--1 operations__tab--active" data-bs-target="#carousel" data-bs-slide="next" style="width: 150px;">Next</button>
+    <div id="hide-search">
+    <h2 id='mainH2'>Mineral Search</h2>
+    <div class="operations">
+        <div class="operations__tab-conatiner">
+          <button class="btn operations__tab operations tab--1 operations__tab--active" data-tab="1"><span>01</span>Handsample tests</button>
+          <button class="btn operations__tab operations tab--2" data-tab="2"><span>02</span>Microscope tests</button>
         </div>
-        <div id="carousel" class="carousel slide" data-bs-ride="carousel" data-interval="none" data-wrap="false" data-pause="true">
-        <div class="carousel-inner">
-          <div class="carousel-item active">
-            <h2>Handsample tests</h2>
-            <p>
-              <form action="process_form.php" method="POST">
+      </div>
+      <div class="operations__content operations__content--1 operations__content--active">
+      <form onSubmit="return false;" action="index.php" method="POST">
                 <table style="margin-left: auto; margin-right: auto; text-align:left;">
                 <tr>
                     <td class="form-label">Color</td>
@@ -297,14 +298,12 @@
                     </td>
                   </tr>
                 </table>
-                <input type="submit" value="submit" style="margin-top:20px; margin-bottom:50px;">
+                <input class="submit" type="submit" value="submit" style="margin-top:20px;">
               </form>
-            </p>
-          </div>
-          <div class="carousel-item">
-          <h2>Thin Section(0.03mm)</h2>
-          <p>
-              <form action="process_form.php" method="POST">
+      </div>
+
+      <div class="operations__content operations__content--2">
+      <form onSubmit="return false;" action="index.php" method="POST">
                 <table style="margin-left: auto; margin-right: auto; text-align:left;;">
                   <tr>
                     <td class="form-label">Color</td>
@@ -437,13 +436,24 @@
                     </td>
                   </tr>
                 </table>
-                <input type="submit" value="submit" style="margin-top:20px; margin-bottom: 50px;">
+                <input class="submit" type="submit" value="submit" style="margin-top:20px;">
               </form>
-            </p>
-          </div>
-        </div>
-    </div>
+      </div>
+</div>
 
+      
+   
+    <div id=results-constainer class="hidden">
+      <h3>
+        Mineral Sujestions
+      </h3>
+      <div id="min-results">
+        <p>
+          Min results here
+        </p>
+      </div>
+      <button onclick="chngView()" class="btn btn-reset">reset</button>
+    </div>
   </div>
 
   <footer class="footer">
@@ -452,7 +462,7 @@
     ?>
   </footer>
   </body>
-  <script src="../scripts/script.js"></script>
+  <script src="scripts/script.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js" integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
 </html>

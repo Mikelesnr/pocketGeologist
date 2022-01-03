@@ -5,19 +5,22 @@
     <?php
       include('head.php');
     ?>
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <nav class="navbar navbar-expand-lg navbar-light">
         <?php
         include('mainNav.php');
       ?>
     </nav>
     <header class="header">
+    <div class="container-fluid text-center ">
         <?php
           include('header.php');
         ?>
         <h3>Contact Me.</h3>
+    </div>
     </header>
     <div class="form-container">
         <form action="mailto:thefingertipinformer@gmail.com" style="margin-top: 50px;">
@@ -47,7 +50,7 @@
                     </td>
                 </tr>
             </table>
-            <input style="margin-left:20%;" type="submit" value="Submit" style="margin-bottom: 50px;">
+            <input  type="submit" value="Submit">
 
         </form>
     </div>

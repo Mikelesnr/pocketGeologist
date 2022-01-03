@@ -1,18 +1,7 @@
 'use strict'
 
-const barMenu = document.querySelector('.barMenu');
-const navLinks = document.querySelector('.navlinks');
+
 const tabContainer = document.querySelector('.operations__tab-conatiner');
-
-console.log(tabContainer);
-/////////////////////////////////////////////////////////////
-//nav cotrol
-navLinks.style.display='block'
-barMenu.addEventListener('click',(e)=>{
-    //console.log(navLinks.style.display=='none');
-    navLinks.style.display=='block' ? navLinks.style.display='none' :navLinks.style.display='block'
-    })
-
 ///////////////////////////////////////////////////////////
 if (tabContainer){
 tabContainer.addEventListener('click', function (e) {
@@ -34,3 +23,14 @@ tabContainer.addEventListener('click', function (e) {
 }
 
   ///////////////////////////////////////
+const submit=document.querySelectorAll('.submit');
+const reset=document.getElementById('reset')
+function chngView(){
+    const search = document.getElementById("hide-search");
+    search.classList.toggle("hidden");
+    const results = document.getElementById("results-constainer");
+    results.classList.toggle("hidden");
+  }
+submit.forEach(btn =>{
+  btn.addEventListener('click',chngView);
+});

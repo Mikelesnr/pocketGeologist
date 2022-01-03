@@ -8,22 +8,93 @@
 </head>
 
 <body>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <nav class="navbar navbar-expand-lg navbar-light">
         <?php
         include('mainNav.php');
       ?>
     </nav>
     <header class="header">
-        <?php
+        <div class="container-fluid text-center ">
+            <?php
           include('header.php');
         ?>
-        <h3>Sedimentary.</h3>
+            <h3>Sedimentary.</h3>
+        </div>
     </header>
-    <section>
-        <h3>Sedimentary</h3>
-        <p></p>
-    </section>
+    <main class="container" style="text-align: center; width:80%;margin:0 auto 50px auto;">
+        <section class="section section-1">
+            <div class="clearfix" style="padding-top: 50px;">
+                <img style="width:50%;" class="col-md-6 float-md-end mb-3 ms-md-3 rockImg"
+                    src="https://lh3.googleusercontent.com/gzt8oht1-j6RXoeRaF3oAfSDo8poWTYispgW-3rHQr5yQoWgRNHEP-eZ917L4wqTBw90Vnhie27g-3o8PuBev4EmF7CJrS9T8dwCErnxVsNrG19J4M6fNXwYX4ME4Bz4ua98QRt3KuvrBvF9Ux4L55pSM4Zi8q0OeuVkqhOmWn3oOrL5IQk9oP9UpwgtvGHpPzo1A88H372xCCTsWLc4W40sdpBRKM0T0P6uJ3P-rkbAgWJMFTIeyZU2ibDslzyNCIOuLNXUfnqItem30Qo1cbmlmEkc4CTnoosnQR30QbsvDCzzFIG8YLaTjykuyWI6qTvo4Xs08CSAGKx5uUtPtkNSfsfaZK2PmSdFFmL5UZDto12lIFm7hsokvUJ0jnfLw4VXDjb55Dojz43M4z_JpxUwNBeor_NT0Mn9ElgrnwQ0wWVHN1x9sxaJLQVdNVw1dzkazL3f7VDgOvYQhmja6AMerTGRt1MdGMtNaB-kGSlq0g4vw93ShELkero9w8z8niY5K6m_ga5HAXIvVY6mf9f4_xdSvMm7FK_JSk1AjmIgk9Sjfr8_oWG2xGGHjDMvyARXsznOzsdguj0j0oSz-nlkFtgklhw11fVMWPvXJZuKhXuvc4QVDhSlr9_eI8-GVN0UpqkFkmtTmx14wykjuulkggecPA4i77B_PHM8xT8RjSJaWPkgC4BKb3AsCo5W9nRvtblLrCbUc7fGLsz9PflY=w600-h500-no?authuser=0"
+                    alt="igneous rocks">
 
+                <h3>Origin</h3>
+                <p>
+                    There are two different types of sedimentary rocks. The first is clastic sedimentary
+                    rock. These are formed by deposition of materials in a basing by river systems of
+                    glaciers. As rivers and glaciers move, they erode and carry materials from all the
+                    surfaces they come into contact with. Chemical sedimentary rocks come from precipitation
+                    or replacement of existing structures or fossilized organisms by chemical process.
+                </p>
+
+
+                <h3>Clastic Sedimentary Rocks</h3>
+                <p>
+                    These consist of none-crystalline volcanic glass and fine grain volcanic rocks. The none-crystalline
+                    volcanic glass forms due to rapid cooling. Rapid cooling does not give time for crystal growth. This
+                    is
+                    usually due to quenching if the lava flows into a water body. The fine grain rocks form near the top
+                    and
+                    at the top and at the top of the magma chamber where the temperature and pressure is relatively
+                    lower.
+                    In both cases crystals are not readily visible.
+                </p>
+            </div>
+        </section>
+        <section>
+            <h3>
+                Intrusive Igneous Rocks
+            </h3>
+            <p>
+                These form inside the magma chamber where they cool slower, thousands of years as compared to second to
+                months for Extrusive Igneous. The grains sizes vary from small but visible to medium sized crystals.
+            </p>
+        </section>
+        <section>
+            <h3>
+                Plutonic Igneous Rocks
+            </h3>
+            <p>
+                The cool over millions of years and have grain sizes as big as pebbles to even meters across.
+            </p>
+        </section>
+        <section>
+            <h3>
+                Where do they form
+            </h3>
+            <p>
+                <a href=""><span>Divergent plate boundaries</span></a> . This is where plates drift apart and the gaps
+                are filled by magma. This is how mid oceanic ridges form.
+            </p>
+            <p>
+                <a href=""><span>Subduction zones</span></a> . This is where oceanic plates sink under continental
+                plates. The friction and the pressure cause melting of rock and the resultant magma intrudes into the
+                continental bedrock. This results in formation of volcanoes and underground magma bodies such as dykes
+                and sills.
+            </p>
+            <p>
+                <a href=""><span>Hotspots</span></a> . An example of a hotspot is Hawaii. These occur when continental
+                crust passes over an extremely hot part of the mantle. This is normally located above a plume of rising
+                magma in the mantle. The magma punches a hole in the crust, and this leads to the formation of volcanoes
+                and in some cases volcanic Islands.
+            </p>
+            <p>
+                <a href=""><span>Continental collision zones</span></a> . When two continents collide, there is
+                thickening of crust and melting of rocks as the pressures are extremely high.
+            </p>
+        </section>
+
+    </main>
     <footer class="footer">
         <?php
       include('footer.php');

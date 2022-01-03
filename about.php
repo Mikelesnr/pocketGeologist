@@ -8,16 +8,18 @@
 </head>
 
 <body>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <nav class="navbar navbar-expand-lg navbar-light">
         <?php
         include('mainNav.php');
       ?>
     </nav>
     <header class="header">
-        <?php
+        <div class="container-fluid text-center ">
+            <?php
           include('header.php');
         ?>
-        <h3>About Me.</h3>
+            <h3>About Me.</h3>
+        </div>
     </header>
 
     <footer class="footer">

@@ -25,8 +25,8 @@
         <section class="section section-1">
             <div class="clearfix" style="padding-top: 50px;">
                 <img loading="lazy" style="width:50%;" class="col-md-6 float-md-end mb-3 ms-md-3 rockImg"
-                    src="https://lh3.googleusercontent.com/QYKiFWfytof9vNLlgNRmaKpAZbTdx53xvQ9rGYXN0pNb-wNfdSJLDUl-FkUgI5z_E-ieKkYHIQkJegdaIuzrhyA2pVwoGA-CgDQnFLrvEWmiv8CoXU80c2F9Z5NxK-DWDQXhRN81qeJh8jv87ROqro_E_fvXHxBINo9mkMhn_wpILIvefBbOZ-f010qAx-EamLwfYZnrdb_PznGQgdguUxDGXojyKW37VkJVRVspoiFRyDTj062e2eHTaGcUBmCZ83kw96MSyagFZoPZiTp7gafPKw0Me2bNkqCmDb_DrEmZBW9Ap8vEfhLQL3NZQKLTPBJu2zxou2RMYL0piFDLtownPs-rxBekIuVf6xtY_2fOMla4pA8Bz0HBLFQNp8svkmyaMBN9nyz2AjjF59eiUyEBt2RvGrsKBkX6mpoZPBxeY1c8pqV5Y-wdPw7ZwkKtMj8DyKosDrL1Tdjtkq80SpoJHViemIZnlh6kbqZcOmLbeQL6modrmln4bBZfT07N8R89E8Peq_tW8P-P7OuzR_I_AK1YRl0Amsr8gU7g2DvZlowlQAkeHQwAeCukls471NsCOxqXG7zVQMtFeSfnLD3Z9RrT-SQTSgiVnPbuJ_Yoxc73EIf-Rm-fPn2VTP1--bOVthbiEZ9Bl48QHf1hQ--sS2lIwLdtEBlOQilr0MFHpoN-S1ZwVjzvBu9xC0BR8Tlf-h0126irYFp33oFOV4u2=w758-h568-no?authuser=0"
-                    alt="igneous rocks">
+                    src="images/metamorphic.jpg"
+                    alt="metamorphic rocks">
 
                 <h3>Origin</h3>
                 <p>

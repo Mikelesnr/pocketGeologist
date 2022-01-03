@@ -31,7 +31,7 @@
                 <div class="col">
                     <div class="card shadow-sm">
                         <img loading="lazy"
-                            src="https://lh3.googleusercontent.com/HaZMOOsi3bfz3ShlcFSzeIuBSmiPVszSpNl6McYfX-nT7GqLeH7sxD0y72WAnEJCt8mJAmqZfHiknfLZ-MYxbfl_bq8mbqNmzjuj9_d_aXwxMCVNkUuEP93QvCeKTXmbZoeZw1H8xT9a1MVcQjC7cUbuKkXJgPGhWmtABUFdY43v3uZ7wJ2htTM7_hEyQFyem1950VDhlJ1bhvoa2ZqNgyXdgm4eA0NeRzmSv360Fzu7Oi9PBAg3KiJOi80GA-N3AIBxl4JH_hagmG2ryBqC3F6pwC5Xt9CkwrMI4YZdaXWP3wzfMJGSVCUIwYbyy1SRntaLxE1w5t4NrouUskcFrTNxyy-K8jAiTTCA7bE1-LItNfnyvsBsME8d0fqbSKNJcySCyj1ecjGRJReLSVbuEGnF9ux_TDBKqvrORGw00SGQASq87ehNp6V1AbXXC3CH6pGI4fxaiEDqHVYfzDTZctuRQhDs19-0DRZ4Bwv07gkq0U8PfR8pKTlcdVo7RwOsAe_06ZqioTP16LXEinLkE_cg64E90PT9vZ7wHmmAWiJORxN69EzPBSW_d8RcVYFy6LJ5OOT2x_INkP4ulFLDGHgH_2JTVZJdRxvWqbcomYaQxJ-LN-FXD44ZQm8TMn-k28Sr_Xk4QVZfR3g3eKffb1mqKHg_BPBT2J3szxbd7BAQ8Yx4iZuwX8NLoQDGm2mnrQZaujkhWBm77RIpdfRsy9Zz=s500-no?authuser=0"
+                            src="images/obsidian2.jpg"
                             alt="obsidian">
 
                         <div class="card-body">
@@ -47,7 +47,7 @@
                 <div class="col">
                     <div class="card shadow-sm">
                         <img loading="lazy"
-                            src="https://lh3.googleusercontent.com/ON1f9h_V3_eFKungjnqgzlaN5A8ssjKKywsYx1xUVFXmaRuEVLuXQEgtqTHRSTySLPU55cYTsrcae7RlFvAG2CeZPqwkJdq6mi48E9pwk6I_PjLcugzRq2wP5U3SF7SHYnqWYESC3uFoJfFpi3Qz8O4oyaGYVhe8OTP2yB9P6qmAPhmKLG0bnLLDRwKxZM9BxmXFZj8PM0jQM6GbJ6E3nCWsaTceFaant4Pwx3zuVYFfa6uKEkIaR4dENbyXNv0CzGVOr_O_tcpsTfEnSiiL4pQ2osTnCYIhgxacbwpnLrXRgKariCKBDEicRPDGfwu-tGFvJdVsKDa41oRzxl2LINeqLy7LNotBRtguccnUcAyted3Et-Baqp1TrALYZKE5iKMsb2vW6Rly4IPEqmItzABxr7YDg4Rexx6-g_hDHi84Fnh0S9Lb6J9rwaGI764y95hdpgvLXjMGIITVqTpB9xmZgfLAbEk1IlyJOl_Rybu6TnJ0anz5eHpBdXGDqTY9vnZ8VJ9zZebyezafoQerLT1CO1BJFXf2Xrx1vYIfwaBb_8M4AxQpuVOw3AxbMWpEtnMpVMI2Z28zBFTyPbPIHsgzwvuttXhQkiifvxexu9z6AaPlPWhYcuA12E-R7YcCToBSrwLMXiOeaKUEBm7L35oiXwmVcI-fxXs9fAsijO_Wjyvi4aCkYK8E8e81BeCV2N1iU_Iglef5eE0ej8Y6yVFA=s500-no?authuser=0"
+                            src="images/amethyst(1).jpg"
                             alt="amethyst">
 
                         <div class="card-body">
@@ -63,7 +63,7 @@
                 <div class="col">
                     <div class="card shadow-sm">
                         <img loading="lazy"
-                            src="https://lh3.googleusercontent.com/-gJhsizEyUiOBQ2lJfVP_xjF9uNI353JqDcYZ8fLzZOBKJfO9VL20PZXoE9p-DjHrKKNG2T4hza_3lVQYpRwFYC5TLEkMlDaAwDFAVrh0V5TMYnWiw0jtaC9RTRmwnMM5zdMkEiOosBxWLKbG0JpH4jSDfWEzJk9Hup9eAb0yOQeyCmeqmCSptKSiPlnvLWnUxRtnkljJrEDYk8e0NHaC1KuOkvXAvZc3w2tAOnV9qZl-di_IuicT9n8Q_Kv_H5YDzqTN-xyL54REnuAu_Y5ZVgRyOhsQPqbHDqApy2MrXFn4smhryijUwifGJTJz3mGqIM6AY5eMD-w26JDasgUyBjDqxlXmJvanZhQlUE8ogHjOvGTIr2r7NHC38EK6jW4A6fNAA6ngLYPMuMxruDxZZXH5ns7y2OSHbeLMY6ppxSgKNz_nQWLZAlBBZTe9SV0yqbMOSZEoIklLeJeLkqUiliQbYkTRjAYZAGMSbMj6v4qDmp4tMkpUxGYYBWgN1J-rhNoPqrFTFUhBDKa7fJ7fADdMJQSwjiEVzGlE8hcVfBCJnpqd0VlhySVf_Ep-wTBb5UmOqTRMy5S2TFJVJOJ7jkUNVyqPXoa9xalWQaqZS87CyVFtJHhRjz7Eq3vZBJEVvA-rXndgEX9Pgrx24WeX1nfpq_p3NwGt0nHBe2ffP24NmiNPiDUyvWfcA1F6x0IIIimXli3XFKtNLp1-nQRe8Pl=s500-no?authuser=0"
+                            src="images/quartz.jpg"
                             alt="quartz">
 
                         <div class="card-body">
@@ -80,7 +80,7 @@
                 <div class="col">
                     <div class="card shadow-sm">
                         <img loading="lazy"
-                            src="https://lh3.googleusercontent.com/Ha1_B-9DB-RwcHUwlGxDh4nOgi_tUkReTblnLV0a2jQSWAA43DVfAaGLSOe1N5jaMdsVddmeJqQPAozTcgZebgzLFWEJJH5gdEXMZHBrjhQcr7PaPobDR2IsyRi3kVaG5mgJ2a7PWABvVT7sadUZ5UafC-faDizYsZDTH7N_AePPh-Dktmcjyp0rPpCiogHzGNo6OQWN2zfjVXwRo3D0ZJuJJiu-MTcc9nuq9lPWfHNpjyuLwQJlCd_Rbgb_WNHAoJRx-LhLiocg2CTleIINW_9xu3Z1AwHKSMqMfZj2rkP60Kb_0-dijZc-x4yGKa8fyA5Uao37kECxSnITsBnbV_IdS1RKjzcunFE18JZbjJzWMW_mCdVz2Neqi0dZvGwTctHwaXUEoA7Q9KzIrMR1gCtOupunb751aRAFbQY1j5V-OmDB5f9jhAb8ak7vfNVYrlVnde3mgkMUi9IlE1a3G6tpxLKzG0Sd9bZ3pldlqorXCf3Hn6wJdlmoxV10lNUGRNiMd8AWersPtUbO3TfVngtcg3gdeQjWzxC2L7HkmK-5UFE9wpg0DJY9unjGMmmwuWcnfEHXRqM9IkJIR3Ftv9LqLD39Iic9yfB2Gk2ZY9NYvVgTG7NOZFf1SYFUG8IV0SFq1J0ApacGhSbl6hJnm-4EWFvklyNqk6FzRbL02_bmqyM8Y7ks-OmI_406H1mQeTjYDgEoumxalgR2WGFjGwIT=s500-no?authuser=0"
+                            src="images/feldspar2.jpg"
                             alt="feldspar">
 
                         <div class="card-body">
@@ -96,7 +96,7 @@
                 <div class="col">
                     <div class="card shadow-sm">
                         <img loading="lazy"
-                            src="https://lh3.googleusercontent.com/prP0xMuxt_3L4OcBYKXcB7wJMNbGsYYe2VGbco8kc-ME1HiQb8F8xsqx9F_DLxnO3aYCt3V3TNKQPZikiQvDPfurXt_ZXlVa_8SW44WXsGDrRf26HBkcD4vLUTlRtdDQ4JtYTEvnhnQSg5ut5J_xiYh6ZdefoEj3gf22VHhKHvPKbQwzaaD-gUjwM88uuwbEJ-6QBLTGp9nttc6JdHYyBb1gDmf1IlRtI7m7YYt97af0P3CPZUnKHuxp3Rh1jl3AE77JOdEHb9M7wEgHNYzGPx7TnxSZ1Om5pVT3wIAOgLaZoCYdk7DuOIQdBoudGNx_bk4pxeCf5Fcjpak9AnoSLYxd6bpv3EwgRFDfZB8895tA80eY-yLS9CYov3v7RJSAYOHaBeejUyrc2-ld8g5RXnWjmA0MCfxKnB5YKwaryjPdc5VSx_e2ITTW-sUv2M_FXlx9oOxCuJPmkAmx30CaQ23q-Tq3mLs3aqWectUhz-LWD6PN8MmDH2ZKZojh945L44Fbb_c7_5pe3-AKlcxxhcD7uGPij6uwpoAOZXy8B4YUXrkbOovu15W6hcE1Zc2USTcrwJNzC-_yCxRMAAeQc2nwkdFBso_3IHe9zYG1P70aYzbuXxyqUI3EdfELf66MX-i92vsrv0ODSUtEka23a6ACnYnIMvtVZg9CIHTnSPjNxkEJf3409Is0Se7eVMD3Lp0E83uji9FYJlZt4z3fW3cA=s500-no?authuser=0"
+                            src="images/biotite2.jpg"
                             alt="biotite">
 
                         <div class="card-body">
@@ -112,7 +112,7 @@
                 <div class="col">
                     <div class="card shadow-sm">
                         <img loading="lazy"
-                            src="https://lh3.googleusercontent.com/UtaZycDLciH6Ao6o3b18FzHobzuAhjlwlI0x4xe4DH-tL5Eghv4onLH_FKyV5lxZMNE4fNaCq6K-0lzsvZAE-SiN91Wyu0trcaBaLshFBY71nsjORvnZlPLSR92_H9LxkyW7xbcKvzdLIuEQWuwEMD6v6yFhqZ4x7UeMJO-xuwXU62hhD-ZKTrDEegHgnLrcuwY_p57sI02Vx88ViP4AcLaJN1JMXiRkxDkhDSnKKau9GS6xGaqlOTHYrf3BuAAAiHIE6yBiVEdQsqyhjbykDymSWXbEOQFWh7p8XQVfEaHdPDpoZDjavGahF7S0GF6XBKulB0kfI9Bfcej2BOQ69uagzBgCqQsiOsubUYlUKjjOhs4x7BAL2ZWoImp_FAWGmgIgw1m2CcaXyendV0iSsNNm_zDVSf9Rh0GlRgDNCIjK8Ne-80SIZ2zAeM_Em6yb4LA5C6elkrOWdJDwpkP1l3xKDq-8PVSyoo7KTnJdotKmPRdVUN0rDaOU9WC6WXaBOso5wfDXqTP-FcG27oPT5tZliehXw9aAr2v5C5WEl5GkZBbp0LlEHfZMdNwAt923lZxIoVk3xqaQwMUkMgRXA5gNBrHvL2bTtQcDUdL76dW_ubfMQc9CQ61z4Fro1V2ffdxoWkI2hK6zz4rsRm4mMa42g0vACiHZae3k1KdQpGYlhv9Wz_3CAjbdecm9WuNdAst-Oj4Diwx9G9kL14QN6mYi=s500-no?authuser=0"
+                            src="images/galena2.jpg"
                             alt="galena">
 
                         <div class="card-body">
@@ -129,7 +129,7 @@
                 <div class="col">
                     <div class="card shadow-sm">
                         <img loading="lazy"
-                            src="https://lh3.googleusercontent.com/iuAMSnFSBRtSJSubCP51uaSSY14WDDyOgDNKgE_E9IizTSioUkvQjQx7YzONXghhi5PgiBFM6UWoDXpE73NiP-liI1Uvz2_CinoxxRiwoyPugnwO7cU3mJzKlvl2rhA_4Gfje0gP7LHgoH7Eh1D1XSXNYZHMj1kMQpjzmpNdMZ5E863F5TZNPRdmeTDpdhYW22nYsbLkcIyuPkh5JQTS1ham2umecWHiwsn8j9jUm7MBeTIRItodgoFuNg4He2Ira7J-KEpxBmb0FVhUtLmxQx31DojmzWM6hQ32QMLdvX70dtJdhSaeV5Jd34hqZozPqRlEOAv5H_XEnx3CoOALG3POvwwDcvAkCLFVep_b2BnlAFo9DgNzX55o0jV4SHAONlWIPVBSuuzAtyfd9ckSfoll6OZMWUrsMRD28NLgdR8FxkNhu1nzApg30OVr6H81zwtQNUcncyJzZ1DMywqNud6Cbyfi_c5axWqMuPWQ8i6c21p3GKqWSE6IbFxiw7X4uV7xu9_8Kw8IBMAenYhHYWr63YuLk1RXk-ixf8yQNmzT9K5vdK_6Z2ifl61EQOTJnK7HL309JFcV8FbLZfHMMWylW2OKM9KwQmEmAmVx8XD_2LrEGG1FUNoVqNtxP-aloCPvOA5Jn3Q_wDRVfVyQSfO7ubboWuuAcNFS7HqjAZJ1yIf323A0ktKno-Q8mdgzydTcNCC6LMFdTW-kW0nWNxOk=s500-no?authuser=0"
+                            src="images/sandstone2.jpg"
                             alt="sandstone">
 
                         <div class="card-body">
@@ -145,7 +145,7 @@
                 <div class="col">
                     <div class="card shadow-sm">
                         <img loading="lazy"
-                            src="https://lh3.googleusercontent.com/B-Ym1Sr_Il8xohATGsASvGx4I6QvCJAEAlAP-eJHQLF5X5Aepd7bJjDQ_cIsfk-6u4ZIXqphtLrSElVlC4yqOD_HIhQ6v0cOBRFvs6frAH6dvdopAsdsjHMILTJ0YpSRU6vm8z-zECiVODxCFN5UQS7HUD5HKiPXAEjeUKiDniqVDscr2GipPiTnjIA2u9r4ypl6LCqw0kOpEx6HmPcfmotxzgDTdZirBX0qUSUUB0sEJHZ5O7o164vk_ywHpwD5lf9aP5kgNJj2xUow1WO-M2apa_pVlPZn7tJU0GI8ZpukCVb1vKU5XZF-SJHhhNmtY_HP9qGXSU0YVxSwfoZG4nMQ4Cl1FeRMD0Al4QY4h430uz1pOr2E7AmWiznuEUXji28icN2uWhMrGWbcqGHMbKGcO3jj2ejO5CX7fIn1CVYQNUPjLX-Rd8FIlt7MjiEgEp9rujR8Lvprjzk8EPFkXnnsogGox_T6SbbUlq3RSa49RE56Oi4FIkS2imup8SJ1byHz1SCNnn-ZYYUQsRPTVFvKkbEiZ2Zqv3QOqB2e_y6Sik1__sDO7LDntsWbyn5sdPrVWWQSY3gy2-s7xKLmLAzzB2IOz2sbEy3MVl1xfcf3ouMYpFgeWXnP1D-J2qAjMQ-Np7KNeROpsvGg5SToUrXbOZSbH4xxv_tfn2UxTAlIA7Cwj_qMADCT0UgIN7Q3VVj7ihFS-qftAzBvl6HqJsjd=s500-no?authuser=0"
+                            src="images/marble(2).jpg"
                             alt="marble">
 
                         <div class="card-body">
@@ -161,7 +161,7 @@
                 <div class="col">
                     <div class="card shadow-sm">
                         <img loading="lazy"
-                            src="https://lh3.googleusercontent.com/I47QqnGOofGTPrzXtCYzAWe-7G5w1QeXMeC6ZNW5ApFtmLboKhewKhgKhD4TjjmyY7whA3i6eNDvQOIYHAIfhv5IWitfgHYCiYU3P29xIjS73bINFO5W0FoZ3zlrKxgeZerFM7WtUCx1GFVmJlTqctcsraZa9A_w8hKBhm8lAIHFF2lQer8PH6u9qq8pMYCrL6JCiwrcRMnedddvD3lt9delaKKjAPFD3vOTiVsvLOi5MdrGOaDgBwn-2lWumjKJU5kom8aIwFGUnBc-Ho5he58t48HVhrJdPqhXJBNll9WHTOY6iYNhF8TogbNsTC1FRIP8W8K8yBxaBLioyJxvcAfL0X38J23jCIaHmCQsvgZtEiqzl22JcNd0SwVPqE-v9PypBsOgrtRSfkE2iws68Xi6VmSDeCRocO--Db34TEBpCqi2XYN1of6EbC9JHy9v6fEq75Uvw90kcwneo7Uk_Um2-MGDB7d8jsUmo4Jq0gZTaQJfKXmNSDwWHbPqvVAq3DqRkpK2oqMuM_4s9hnOJShee0FAQuDYjsNU74NjRJoabZ9HkLizdq4AuqaGbjKCTD0qCZcU6oooEjNwzlxpxFtR5nU0UTZBITIaIZ4aXFYaqsw10tSf8sOUB7w1yyCP421oWW8sj_GOYp7RsnXUyyKLEYJ6uu1wWK2ouruoGMLWhQ8oI9KSVLewUK6z0VNjRxjyJaa2e6RSlsmtJn_IkFQk=s500-no?authuser=0"
+                            src="images/gneiss2.jpg"
                             alt="gneiss">
 
                         <div class="card-body">

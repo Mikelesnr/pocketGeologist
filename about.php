@@ -18,14 +18,14 @@
             <?php
           include('header.php');
         ?>
-            <h3>About Me.</h3>
+            <h3>About Site.</h3>
         </div>
     </header>
     <main class="container" style="text-align: center; width:80%;margin:0 auto 50px auto;">
         <div class="clearfix" style="padding-top: 50px;">
             <img loading="lazy" style="width:50%;"
                 class="col-md-6 float-md-end mb-3 ms-md-3 rockImg data-mdb-lazy-offset"
-                src="https://lh3.googleusercontent.com/pw/AM-JKLXwI5kWpTQnsEgL0TumDftXfFNmjJYOFGqF-8jTMVJrJt_IDTBgDcumNvWKrO5v0mslwsEH2SKSrGmQpzokBaldUwsut0ePWNcYFRD6XufKjjvrzdzihcpEuxLZFaPaRgxxkxwKUiXHoAwlI12lUBX1Q8rag6ViJUyHpFCEZMqgEt9y0NKS_OKgADVyuiKuMSd2vffQ5l3DtGdSfvSqEg0ZxM9uwQfGmBK0Jc8Jn9-SQoo9q2rIwT7V1Ky2bkF01hPABnxYq6cbZTsdAO6uiP-zjfuvzhW-_MPyqHegbmXvRqTzkrhDOd0rfL-c3tkCE_yqW9csV6c6WgjePVoS3SF0OfIhVmMa13qBNPdfsUd7AONrkjRbCehi8HxJOMuU_g1qre5Nr6aY5VjbJh3IjnEz-xQ-tQh0wOwnKAKs13g_F1N0Ad5i4xJJ2XRN7tLzWAg-dlWsFOOr9mvyFmNLBwifOmEZTVq-yWfqE0Dkki8xnPLxK8qRyZS0cysv4wbXxAokwda45WIXl93bkbikphw9detPRxtevf3i9HVZdPDijo5KYT4BOfRxfOMnTvyfslRAksBefJJI224dEps9RGyJBKDPlJBV3JZjjkng1D2cckkhaQuWtKTyWBQSOxRt1jCmnKN904jZbiPOryY5AC37Q9nKuZxiHIJkr8UDJLzbNAIoeCVLfvP0TQkSiqRpCwwj1Mg8GEodGsUWP6wCpj620QTOEl6-ahTwm-tnGJ3ZAsw=s220-no?authuser=0"
+                src="images/about(1).jpg"
                 alt="mineral and handlens">
             <h3>
                 What is this site about?

@@ -24,8 +24,14 @@
             <li><a class="dropdown-item" href="metamorphic.php">Metamorphic</a></li>
           </ul>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="about.php">About Me</a>
+        <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            about
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+            <li><a class="dropdown-item" href="about.php">about site</a></li>
+            <li><a class="dropdown-item" href="https://mikelesnr.github.io/my-site/" target="_blank">about me</a></li>
+          </ul>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="contact.php">Contact</a>

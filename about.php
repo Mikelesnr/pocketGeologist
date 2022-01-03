@@ -21,6 +21,45 @@
             <h3>About Me.</h3>
         </div>
     </header>
+    <main class="container" style="text-align: center; width:80%;margin:0 auto 50px auto;">
+        <div class="clearfix" style="padding-top: 50px;">
+            <img loading="lazy" style="width:50%;"
+                class="col-md-6 float-md-end mb-3 ms-md-3 rockImg data-mdb-lazy-offset"
+                src="https://lh3.googleusercontent.com/pw/AM-JKLXwI5kWpTQnsEgL0TumDftXfFNmjJYOFGqF-8jTMVJrJt_IDTBgDcumNvWKrO5v0mslwsEH2SKSrGmQpzokBaldUwsut0ePWNcYFRD6XufKjjvrzdzihcpEuxLZFaPaRgxxkxwKUiXHoAwlI12lUBX1Q8rag6ViJUyHpFCEZMqgEt9y0NKS_OKgADVyuiKuMSd2vffQ5l3DtGdSfvSqEg0ZxM9uwQfGmBK0Jc8Jn9-SQoo9q2rIwT7V1Ky2bkF01hPABnxYq6cbZTsdAO6uiP-zjfuvzhW-_MPyqHegbmXvRqTzkrhDOd0rfL-c3tkCE_yqW9csV6c6WgjePVoS3SF0OfIhVmMa13qBNPdfsUd7AONrkjRbCehi8HxJOMuU_g1qre5Nr6aY5VjbJh3IjnEz-xQ-tQh0wOwnKAKs13g_F1N0Ad5i4xJJ2XRN7tLzWAg-dlWsFOOr9mvyFmNLBwifOmEZTVq-yWfqE0Dkki8xnPLxK8qRyZS0cysv4wbXxAokwda45WIXl93bkbikphw9detPRxtevf3i9HVZdPDijo5KYT4BOfRxfOMnTvyfslRAksBefJJI224dEps9RGyJBKDPlJBV3JZjjkng1D2cckkhaQuWtKTyWBQSOxRt1jCmnKN904jZbiPOryY5AC37Q9nKuZxiHIJkr8UDJLzbNAIoeCVLfvP0TQkSiqRpCwwj1Mg8GEodGsUWP6wCpj620QTOEl6-ahTwm-tnGJ3ZAsw=s220-no?authuser=0"
+                alt="mineral and handlens">
+            <h3>
+                What is this site about?
+            </h3>
+            <p>
+                This site is a mineral database for anyone who is interested in mineral properties or just to look up
+                minerals. The database will be updated over time as I am working on this project alone. With me being a
+                self-taught programmer with a geology degree I felt this project would be the best first project to show
+                both the web development skills I have learnt as well as my background. I will be improving things as I
+                go and as I learn new skills.
+            </p>
+            <h3>
+                Who is this site for?
+            </h3>
+            <p>
+                This site is for geology students, resent graduates who want to do a quick lookup in the field, Mineral
+                lab assistants who want to do a quick mineral search rather than look though an entire physical book to
+                find the mineral they are testing. For reference in the microscope slide section the database will be
+                built from A Handbook of Minerals Under the Microscope by E.P. Saggerson, published by University of
+                Natal Press
+            </p>
+            <h3>
+                How does it work?
+            </h3>
+            <p>
+                If you select the search link in the main navigation of this site it will take you to the section where
+                you can input, the mineral properties. There are two buttons the hand sample button for when you are
+                working with samples that you can do physical tests on. This is the button you would typically use int
+                the field. The second button is the one you would typically use in a lab where you have access to a
+                petrograph microscope where you can do optical tests. Please note that all the mineral properties in the
+                microscope database are recorded for 0.03mm slides on a Michael levy chart.
+            </p>
+        </div>
+    </main>
 
     <footer class="footer">
         <?php

@@ -15,12 +15,12 @@
       ?>
     </nav>
     <header class="header">
-    <div class="container-fluid text-center ">
-        <?php
+        <div class="container-fluid text-center ">
+            <?php
           include('header.php');
         ?>
-        <h3>Contact Me.</h3>
-    </div>
+            <h3>Contact Me.</h3>
+        </div>
     </header>
     <div class="form-container">
         <form action="mailto:thefingertipinformer@gmail.com" style="margin-top: 50px;">
@@ -30,27 +30,29 @@
                         <label class="form-label" for="fname">First Name</label>
                     </td>
                     <td>
-                    <input type="text" id="fname" name="firstname" placeholder="Your name.." style="width:250px;">
+                        <input type="text" id="fname" name="firstname" placeholder="Your name.." style="width:250px;">
                     </td>
                 </tr>
-                <tr >
+                <tr>
                     <td style="text-align:left;"">
-                        <label class="form-label" for="lname">Last Name</label>
+                        <label class=" form-label" for="lname">Last Name</label>
                     </td>
                     <td>
-                        <input type="text" id="lname" name="lastname" placeholder="Your last name.." style="width:250px;">
+                        <input type="text" id="lname" name="lastname" placeholder="Your last name.."
+                            style="width:250px;">
                     </td>
                 </tr>
                 <tr>
                     <td style="text-align:left;">
-                    <label class="form-label" for="subject">Subject</label>
+                        <label class="form-label" for="subject">Subject</label>
                     </td>
                     <td>
-                    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px; width:250px;"></textarea>
+                        <textarea id="subject" name="subject" placeholder="Write something.."
+                            style="height:200px; width:250px;"></textarea>
                     </td>
                 </tr>
             </table>
-            <input  type="submit" value="Submit">
+            <input type="submit" value="Submit">
 
         </form>
     </div>

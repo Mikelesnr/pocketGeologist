@@ -24,7 +24,7 @@
     <main class="container" style="text-align: center; width:80%;margin:0 auto 50px auto;">
         <section class="section section-1">
             <div class="clearfix" style="padding-top: 50px;">
-                <img style="width:50%;" class="col-md-6 float-md-end mb-3 ms-md-3 rockImg"
+                <img loading="lazy" style="width:50%;" class="col-md-6 float-md-end mb-3 ms-md-3 rockImg"
                     src="https://lh3.googleusercontent.com/gzt8oht1-j6RXoeRaF3oAfSDo8poWTYispgW-3rHQr5yQoWgRNHEP-eZ917L4wqTBw90Vnhie27g-3o8PuBev4EmF7CJrS9T8dwCErnxVsNrG19J4M6fNXwYX4ME4Bz4ua98QRt3KuvrBvF9Ux4L55pSM4Zi8q0OeuVkqhOmWn3oOrL5IQk9oP9UpwgtvGHpPzo1A88H372xCCTsWLc4W40sdpBRKM0T0P6uJ3P-rkbAgWJMFTIeyZU2ibDslzyNCIOuLNXUfnqItem30Qo1cbmlmEkc4CTnoosnQR30QbsvDCzzFIG8YLaTjykuyWI6qTvo4Xs08CSAGKx5uUtPtkNSfsfaZK2PmSdFFmL5UZDto12lIFm7hsokvUJ0jnfLw4VXDjb55Dojz43M4z_JpxUwNBeor_NT0Mn9ElgrnwQ0wWVHN1x9sxaJLQVdNVw1dzkazL3f7VDgOvYQhmja6AMerTGRt1MdGMtNaB-kGSlq0g4vw93ShELkero9w8z8niY5K6m_ga5HAXIvVY6mf9f4_xdSvMm7FK_JSk1AjmIgk9Sjfr8_oWG2xGGHjDMvyARXsznOzsdguj0j0oSz-nlkFtgklhw11fVMWPvXJZuKhXuvc4QVDhSlr9_eI8-GVN0UpqkFkmtTmx14wykjuulkggecPA4i77B_PHM8xT8RjSJaWPkgC4BKb3AsCo5W9nRvtblLrCbUc7fGLsz9PflY=w600-h500-no?authuser=0"
                     alt="igneous rocks">
 

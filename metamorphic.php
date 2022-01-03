@@ -24,30 +24,30 @@
     <main class="container" style="text-align: center; width:80%;margin:0 auto 50px auto;">
         <section class="section section-1">
             <div class="clearfix" style="padding-top: 50px;">
-                <img style="width:50%;" class="col-md-6 float-md-end mb-3 ms-md-3 rockImg"
+                <img loading="lazy" style="width:50%;" class="col-md-6 float-md-end mb-3 ms-md-3 rockImg"
                     src="https://lh3.googleusercontent.com/QYKiFWfytof9vNLlgNRmaKpAZbTdx53xvQ9rGYXN0pNb-wNfdSJLDUl-FkUgI5z_E-ieKkYHIQkJegdaIuzrhyA2pVwoGA-CgDQnFLrvEWmiv8CoXU80c2F9Z5NxK-DWDQXhRN81qeJh8jv87ROqro_E_fvXHxBINo9mkMhn_wpILIvefBbOZ-f010qAx-EamLwfYZnrdb_PznGQgdguUxDGXojyKW37VkJVRVspoiFRyDTj062e2eHTaGcUBmCZ83kw96MSyagFZoPZiTp7gafPKw0Me2bNkqCmDb_DrEmZBW9Ap8vEfhLQL3NZQKLTPBJu2zxou2RMYL0piFDLtownPs-rxBekIuVf6xtY_2fOMla4pA8Bz0HBLFQNp8svkmyaMBN9nyz2AjjF59eiUyEBt2RvGrsKBkX6mpoZPBxeY1c8pqV5Y-wdPw7ZwkKtMj8DyKosDrL1Tdjtkq80SpoJHViemIZnlh6kbqZcOmLbeQL6modrmln4bBZfT07N8R89E8Peq_tW8P-P7OuzR_I_AK1YRl0Amsr8gU7g2DvZlowlQAkeHQwAeCukls471NsCOxqXG7zVQMtFeSfnLD3Z9RrT-SQTSgiVnPbuJ_Yoxc73EIf-Rm-fPn2VTP1--bOVthbiEZ9Bl48QHf1hQ--sS2lIwLdtEBlOQilr0MFHpoN-S1ZwVjzvBu9xC0BR8Tlf-h0126irYFp33oFOV4u2=w758-h568-no?authuser=0"
                     alt="igneous rocks">
-       
-                        <h3>Origin</h3>
-                        <p>
-                            Igneous rocks form from the cooling and crystallization of liquid magma. Their name I
-                            derived from the Latin word ignis which means fire. There are three classes of igneous
-                            rock, these are extrusive, intrusive and plutonic.
-                        </p>
 
-                        <h3>Extrusive Igneous Rocks</h3>
-                        <p>
-                            These consist of none-crystalline volcanic glass and fine grain volcanic rocks. The
-                            none-crystalline
-                            volcanic glass forms due to rapid cooling. Rapid cooling does not give time for crystal
-                            growth. This is
-                            usually due to quenching if the lava flows into a water body. The fine grain rocks form near
-                            the top and
-                            at the top and at the top of the magma chamber where the temperature and pressure is
-                            relatively lower.
-                            In both cases crystals are not readily visible.
-                        </p>
-                    </div>
+                <h3>Origin</h3>
+                <p>
+                    Igneous rocks form from the cooling and crystallization of liquid magma. Their name I
+                    derived from the Latin word ignis which means fire. There are three classes of igneous
+                    rock, these are extrusive, intrusive and plutonic.
+                </p>
+
+                <h3>Extrusive Igneous Rocks</h3>
+                <p>
+                    These consist of none-crystalline volcanic glass and fine grain volcanic rocks. The
+                    none-crystalline
+                    volcanic glass forms due to rapid cooling. Rapid cooling does not give time for crystal
+                    growth. This is
+                    usually due to quenching if the lava flows into a water body. The fine grain rocks form near
+                    the top and
+                    at the top and at the top of the magma chamber where the temperature and pressure is
+                    relatively lower.
+                    In both cases crystals are not readily visible.
+                </p>
+            </div>
         </section>
         <section>
             <h3>
